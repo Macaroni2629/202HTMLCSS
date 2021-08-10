@@ -1,0 +1,21 @@
+h1 {
+  text-align: justify;
+  /* text-indent: 4em; */
+  /* font-style: italic; */
+  font-weight: bold;
+  /* line-height: 2.5; */
+  font-family: Georgia;
+  color: blue;
+}
+
+code {
+  font-family: monospace;
+  font-style: italic;
+  text-decoration: underline;
+  color: green;
+}
+
+p {
+  font-size: 14px;
+  font-family: Helvetica, Arial, sans-serif;
+}
